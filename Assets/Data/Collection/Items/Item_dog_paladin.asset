@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16f6fc2911044496fa615511375f6e3f, type: 3}
+  m_Name: Item_dog_paladin
+  m_EditorClassIdentifier: AnimalWorld.Collection::AnimalWorld.Collection.Data.ItemDefinition
+  id: dog_paladin
+  displayName: Paladin Dog
+  description: Carries a hammer blessed at dawn and an unshakeable certainty.
+  icon: {fileID: 155525928, guid: 3ac2b1a82ac184b108c5398ec9350944, type: 3}
+  rarity: 3
+  unlockCost: 600

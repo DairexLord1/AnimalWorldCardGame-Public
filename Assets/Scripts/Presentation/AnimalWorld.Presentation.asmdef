@@ -1,0 +1,20 @@
+{
+    "name": "AnimalWorld.Presentation",
+    "rootNamespace": "AnimalWorld.Presentation",
+    "references": [
+        "AnimalWorld.Collection",
+        "AnimalWorld.Inventory",
+        "AnimalWorld.Progression",
+        "UnityEngine.UI",
+        "Unity.TextMeshPro"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

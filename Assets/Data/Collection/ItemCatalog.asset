@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 055608c2087b84089b41ec9fd177423f, type: 3}
+  m_Name: ItemCatalog
+  m_EditorClassIdentifier: AnimalWorld.Collection::AnimalWorld.Collection.Data.ItemCatalog
+  items:
+  - {fileID: 11400000, guid: e85650c1c464a417eb265e8b10886800, type: 2}
+  - {fileID: 11400000, guid: 18482414c60e24d5794eb543dd885c22, type: 2}
+  - {fileID: 11400000, guid: 4e5c31c5440ee4040a8f6de796e85edd, type: 2}
+  - {fileID: 11400000, guid: 1497aafa876c94395be085cab34449a3, type: 2}
+  - {fileID: 11400000, guid: c4177a439fc644491b4cd4cd9445db33, type: 2}
+  - {fileID: 11400000, guid: e76c267f128fc4958b8b23d211cc328c, type: 2}
+  - {fileID: 11400000, guid: d6ed86b2b2afa4de9908ecf00acdfe1a, type: 2}
+  - {fileID: 11400000, guid: 590879deab9f14e2285bdac921e6d7bb, type: 2}
+  - {fileID: 11400000, guid: f2ed597cad211449e82c528fdb1fac1d, type: 2}
+  - {fileID: 11400000, guid: 79a5dcc078d4c46c6b0237c4d85bac20, type: 2}
+  - {fileID: 11400000, guid: e4f9d637da2cc4d94bc2948133695d07, type: 2}
+  - {fileID: 11400000, guid: c53f81d4670e54add9d30f6e3f92ba29, type: 2}
+  - {fileID: 11400000, guid: 4c028656720fd4a249a92090d725fbe9, type: 2}
+  - {fileID: 11400000, guid: c01219b31239647a393ca9ccd80d7066, type: 2}
+  - {fileID: 11400000, guid: e967d4aef4744477a979c784b89aa2c8, type: 2}
+  - {fileID: 11400000, guid: e95c8f98b957f4b92b786df17ff15b42, type: 2}
+  - {fileID: 11400000, guid: c60f3564bf7234f13bc63b7583ecd3f9, type: 2}
+  - {fileID: 11400000, guid: 309c776711cc647be8b2831436091196, type: 2}
+  - {fileID: 11400000, guid: ab8efee11a71d4073b9a0c6dacb8578e, type: 2}
+  - {fileID: 11400000, guid: b61a7c6a6fac44cbc916bdc943b5526d, type: 2}

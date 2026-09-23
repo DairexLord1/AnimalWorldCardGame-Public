@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16f6fc2911044496fa615511375f6e3f, type: 3}
+  m_Name: Item_cat_bard
+  m_EditorClassIdentifier: AnimalWorld.Collection::AnimalWorld.Collection.Data.ItemDefinition
+  id: cat_bard
+  displayName: Bard Cat
+  description: Turns tavern gossip into legends, and legends into coin.
+  icon: {fileID: -406781167, guid: 6d8e4d8fb42cc4ee3bb102bc1739ffbb, type: 3}
+  rarity: 1
+  unlockCost: 50

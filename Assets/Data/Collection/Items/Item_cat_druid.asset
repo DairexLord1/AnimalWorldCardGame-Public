@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16f6fc2911044496fa615511375f6e3f, type: 3}
+  m_Name: Item_cat_druid
+  m_EditorClassIdentifier: AnimalWorld.Collection::AnimalWorld.Collection.Data.ItemDefinition
+  id: cat_druid
+  displayName: Druid Cat
+  description: Speaks for root and feather. Brings the spring wherever it walks.
+  icon: {fileID: 1866570270, guid: 6d8e4d8fb42cc4ee3bb102bc1739ffbb, type: 3}
+  rarity: 2
+  unlockCost: 250

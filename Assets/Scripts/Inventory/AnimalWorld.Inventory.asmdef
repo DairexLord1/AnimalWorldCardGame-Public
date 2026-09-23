@@ -1,0 +1,16 @@
+{
+    "name": "AnimalWorld.Inventory",
+    "rootNamespace": "AnimalWorld.Inventory",
+    "references": [
+        "AnimalWorld.Collection"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
